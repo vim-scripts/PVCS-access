@@ -1,0 +1,8 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=1178
+
+Allows PVCS users to view differences by previous version, specified version, or between two versions in vdiff or gvim diff formats.
+
+Allows user to browse all archive versions of the current file.
+
+Tested with version 6.0.10. Refer to your PVCS documentation for support.
+
